@@ -1,6 +1,7 @@
 #include <unistd.h>
 #include <stdint.h>
 #include <stdlib.h>
+#include <string.h>
 #include <ei.h>
 #include "erl_comm.h"
 
